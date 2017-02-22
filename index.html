@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Union Project</title>
+    <script src="https://aframe.io/releases/0.3.2/aframe.min.js"></script>
+    <script src="https://rawgit.com/bryik/aframe-bmfont-text-component/master/dist/aframe-bmfont-text-component.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+    <script src="grab.js"></script>
+</head>
+
+<body>
+    <a-scene>
+        <a-sky id="sky" src="img/00.JPG"></a-sky>
+        <a-entity id="leftHand" hand-controls="left" grab></a-entity>
+        <a-entity id="rightHand" hand-controls="right" grab></a-entity>
+    </a-scene>
+</body>
+
+</html>
