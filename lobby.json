@@ -1,7 +1,6 @@
 {
   "spheres": [
     {
-      "number": "1",
       "leftImg": "Lobby100_01_Left.JPG",
       "rightImg": "Lobby100_01_Right.JPG",
       "markers": [{
@@ -35,7 +34,6 @@
       }]
     },
     {
-      "number" : "2",
       "leftImg": "Lobby100_02_Left.JPG",
       "rightImg": "Lobby100_02_Right.JPG",
       "markers": [{
