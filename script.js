@@ -1,4 +1,3 @@
-var photo = 0;
 var startingRoom = "lobby"
 
 $(function() {
@@ -9,6 +8,8 @@ $(function() {
 function loadSphere(room, num) {
   $.getJSON(room + ".json", function (data) {
       //console.log(data);
+
+    $('.marker').remove();
       //console.log(data.spheres[0].number);
       //console.log(data.spheres[num].leftImg);
       $("#sky").attr("src", "img/" + data.spheres[num].leftImg);
@@ -19,15 +20,28 @@ function loadSphere(room, num) {
         //console.log(data.spheres[num].markers[i]);
         //var x = data.spheres[num].markers[i].x;
         //console.log(x);
-        makeMarker(data.spheres[num].markers[i]);
+        makeMarker(data.spheres[num].markers[i],i);
       }
 
-      function makeMarker(mkr)
+
+   $(".marker").on("click",function(evt)
+{
+
+
+if ($(evt.target).data("room")==""){
+  loadSphere(room, $(evt.target).data( "num" ));
+}
+else {
+  console.log($(evt.target).data( "room" ));
+}
+
+}
+
+ );
+
+      function makeMarker(mkr,id)
       {
-
-        var rotation=Math.atan2(mkr.x,mkr.z) * (180 / Math.PI)+180;
-console.log(rotation)
-
+        var spin=Math.atan2(mkr.x,mkr.z) * (180 / Math.PI)+180;
         var marker= document.createElement('a-image');
         marker.setAttribute('position', {
           x: mkr.x,
@@ -36,10 +50,15 @@ console.log(rotation)
         });
         marker.setAttribute('rotation', {
           x: -90,
-          y:rotation
+          y:spin
         });
         marker.setAttribute('src',  "nextMarker.png")
-        marker.setAttribute('transparent',  "true")
+        //marker.setAttribute('transparent',  "true")
+        marker.setAttribute("cursor-listener")
+        marker.setAttribute("id","marker"+id)
+        marker.setAttribute('data-num',mkr.number);
+        marker.setAttribute('data-room',mkr.room||"");
+        marker.setAttribute("class","marker")
         $("a-scene").prepend(marker)
       }
 

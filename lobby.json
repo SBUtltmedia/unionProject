@@ -4,46 +4,61 @@
       "leftImg": "Lobby100_01_Left.JPG",
       "rightImg": "Lobby100_01_Right.JPG",
       "markers": [{
-
               "x" : "2.68",
               "y" : "0.00",
               "z" : "2.90",
               "room" : "corridor199b",
-              "number" : "1"
+              "number" : "0"
           },
      {
               "x" : "-1.66",
               "y" : "-0.01",
               "z" : "1.79",
               "room" : "vestibule100a",
-              "number" : "1"
+              "number" : "0"
           },
         {
             "x" : "-4.87",
             "y" : "0.00",
             "z" : "-4.27",
             "room" : "corridor199",
-            "number" : "1"
+            "number" : "0"
           },
            {
             "x" : "2.00",
             "y" : "0.53",
             "z" : "-2.05",
-            "number" : "2"
+            "number" : "1"
           }
       ]
     },
     {
       "leftImg": "Lobby100_02_Left.JPG",
       "rightImg": "Lobby100_02_Right.JPG",
+        "markers": [{
+          "x" : "0.20",
+          "y" : "0.00",
+          "z" : "3.79",
+          "number" : "0"
+        },
+        {
+          "x" : "0.46",
+          "y" : "0.00",
+          "z" : "-4.35",
+          "number" : "2"
+        }
+    ]
+  },
+  {
+    "leftImg": "Lobby100_03_Left.JPG",
+    "rightImg": "Lobby100_03_Right.JPG",
       "markers": [{
-          "1" : {
-
-          },
-          "2" : {
-
-          }
-      }]
-    }
+        "x" : "-0.16",
+        "y" : "0.00",
+        "z" : "3.05",
+        "number" : "1"
+      }
+  ]
+  }
   ]
 }
