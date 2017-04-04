@@ -27,13 +27,13 @@ function loadSphere(room, num) {
    $(".marker").on("click",function(evt)
 {
 
-
-if ($(evt.target).data("room")==""){
-  loadSphere(room, $(evt.target).data( "num" ));
-}
-else {
-  console.log($(evt.target).data( "room" ));
-}
+    if ($(evt.target).data("room")==""){
+        loadSphere(room, $(evt.target).data( "num" ));
+    }
+    else {
+        //console.log($(evt.target).data( "room" ));
+        loadSphere($(evt.target).data( "room" ), $(evt.target).data( "num" ));
+    }
 
 }
 
