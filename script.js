@@ -1,4 +1,4 @@
-var startingRoom = "lobby_100"
+var startingRoom = "Lobby_100"
 
 $(function() {
     loadSphere(startingRoom, 0);
