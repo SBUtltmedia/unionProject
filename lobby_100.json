@@ -1,8 +1,8 @@
 {
   "spheres": [
     {
-      "leftImg": "Lobby100_01_Left.JPG",
-      "rightImg": "Lobby100_01_Right.JPG",
+      "leftImg": "Lobby_100_01_Left.JPG",
+      "rightImg": "Lobby_100_01_Right.JPG",
       "markers": [{
               "x" : "2.68",
               "y" : "0.00",
@@ -14,7 +14,7 @@
               "x" : "-1.66",
               "y" : "-0.01",
               "z" : "1.79",
-              "room" : "vestibule100a",
+              "room" : "vestibule_100a",
               "number" : "0"
           },
         {
@@ -33,8 +33,8 @@
       ]
     },
     {
-      "leftImg": "Lobby100_02_Left.JPG",
-      "rightImg": "Lobby100_02_Right.JPG",
+      "leftImg": "Lobby_100_02_Left.JPG",
+      "rightImg": "Lobby_100_02_Right.JPG",
         "markers": [{
           "x" : "0.20",
           "y" : "0.00",
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "leftImg": "Lobby100_03_Left.JPG",
-    "rightImg": "Lobby100_03_Right.JPG",
+    "leftImg": "Lobby_100_03_Left.JPG",
+    "rightImg": "Lobby_100_03_Right.JPG",
       "markers": [{
         "x" : "-0.16",
         "y" : "0.00",

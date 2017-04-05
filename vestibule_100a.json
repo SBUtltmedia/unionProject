@@ -1,13 +1,13 @@
 {
   "spheres": [
     {
-      "leftImg": "vestibule100A_Left.JPG",
-      "rightImg": "vestibule100A_Right.JPG",
+      "leftImg": "vestibule_100A_01_Left.JPG",
+      "rightImg": "vestibule_100A_01_Right.JPG",
       "markers": [{
               "x" : "2.85",
               "y" : "0.00",
               "z" : "-0.83",
-              "room" : "lobby",
+              "room" : "lobby_100",
               "number" : "0"
           }
       ]

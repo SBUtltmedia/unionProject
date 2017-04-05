@@ -1,9 +1,13 @@
-var startingRoom = "lobby"
+var startingRoom = "lobby_100"
 
 $(function() {
     loadSphere(startingRoom, 0);
 
 });
+
+function leftPad(num){
+    return ("0"+num).slice(-2)
+}
 
 function loadSphere(room, num) {
   $.getJSON(room + ".json", function (data) {
@@ -14,14 +18,24 @@ function loadSphere(room, num) {
       //console.log(data.spheres[num].leftImg);
       $("#sky").attr("src", "img/" + data.spheres[num].leftImg);
       //console.log(data.spheres[num].markers.length);
+      //console.log(data.spheres[num].markers[0]);
+      //console.log(data.spheres[num].markers[i]);
+      //var x = data.spheres[num].markers[i].x;
+      //console.log(x);
 
-      for (var i = 0; i < data.spheres[num].markers.length; i++){
-        //console.log(data.spheres[num].markers[0]);
-        //console.log(data.spheres[num].markers[i]);
-        //var x = data.spheres[num].markers[i].x;
-        //console.log(x);
-        makeMarker(data.spheres[num].markers[i],i);
-      }
+    data.spheres.forEach(function(val,index,array){
+    (new Image()).src ="img/"+val.leftImg;
+    (new Image()).src ="img/"+val.rightImg
+    });
+
+    data.spheres[num].markers.forEach(function(val,index,array){
+    //console.log(val.room)
+    if(val.room){
+        (new Image()).src ="img/"+val.room+"_"+leftPad(val.number+1)+"_Left.JPG";
+        (new Image()).src ="img/"+val.room+"_"+leftPad(val.number+1)+"_Right.JPG"
+    }
+        makeMarker(val,index);
+});
 
 
    $(".marker").on("click",function(evt)
