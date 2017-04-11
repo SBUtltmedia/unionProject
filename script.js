@@ -16,7 +16,8 @@ function loadSphere(room, num) {
     $('.marker').remove();
       //console.log(data.spheres[0].number);
       //console.log(data.spheres[num].leftImg);
-      $("#sky").attr("src", "img/" + data.spheres[num].leftImg);
+      $("#sky1").attr("src", "img/" + data.spheres[num].leftImg);
+      $("#sky2").attr("src", "img/" + data.spheres[num].rightImg);
       //console.log(data.spheres[num].markers.length);
       //console.log(data.spheres[num].markers[0]);
       //console.log(data.spheres[num].markers[i]);
