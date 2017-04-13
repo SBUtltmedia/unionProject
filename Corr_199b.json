@@ -1,8 +1,8 @@
 {
   "spheres": [
     {
-      "leftImg": "Corr_199b_01_Left.JPG",
-      "rightImg": "Corr_199b_01_Right.JPG",
+      "leftImg": "Corr_199B_01_Left.JPG",
+      "rightImg": "Corr_199B_01_Right.JPG",
       "markers": [{
               "x" : "-2.89",
               "y" : "-0.29",
