@@ -14,6 +14,7 @@ function loadSphere(room, num) {
       //console.log(data);
 
     $('.marker').remove();
+    $('.preview').remove();
       //console.log(data.spheres[0].number);
       //console.log(data.spheres[num].leftImg);
       $("#sky1").attr("src", "img/" + data.spheres[num].leftImg);
@@ -41,6 +42,7 @@ function loadSphere(room, num) {
 
    $(".marker").on("click",function(evt)
 {
+
 
     if ($(evt.target).data("room")==""){
         loadSphere(room, $(evt.target).data( "num" ));
@@ -77,5 +79,20 @@ function loadSphere(room, num) {
         $("a-scene").prepend(marker)
       }
 
-  })
+  }).fail(function(event, jqxhr, exception) {
+      //Break case when JSON DNE, used for the shown fork on Github.io
+      var preview= document.createElement('a-image');
+      preview.setAttribute('position', {
+        x: -0.84,
+        y: 1.51,
+        z: -0.68
+      });
+      preview.setAttribute('rotation', {
+        x: 0,
+        y: 59.01
+      });
+      preview.setAttribute('src',  "Union404.png")
+      preview.setAttribute("class","preview")
+      $("a-scene").prepend(preview)
+})
 }
