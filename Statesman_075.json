@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Statesman_075_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Statesman_075_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Statesman_075_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Statesman_075_01_Right.JPG"
+        }
+    ]
+}

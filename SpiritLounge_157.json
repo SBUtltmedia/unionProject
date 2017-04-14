@@ -1,0 +1,69 @@
+{
+    "spheres": [
+        {
+            "leftImg": "SpiritLounge_157_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge_157_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge_157_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge_157_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge_157_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge_157_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge_157_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge_157_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge_157_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge_157_05_Right.JPG"
+        }
+    ]
+}

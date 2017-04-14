@@ -1,7 +1,7 @@
 {
     "spheres": [
         {
-            "leftImg": "vestibule_100A_01_Left.JPG", 
+            "leftImg": "UnionCommons-Platform_162A_01_Left.JPG", 
             "markers": [
                 {
                     "number": "0", 
@@ -11,7 +11,7 @@
                     "z": "0"
                 }
             ], 
-            "rightImg": "vestibule_100A_01_Right.JPG"
+            "rightImg": "UnionCommons-Platform_162A_01_Right.JPG"
         }
     ]
 }

@@ -1,0 +1,43 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Lobby-StairB_100N_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby-StairB_100N_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby-StairB_100N_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby-StairB_100N_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby-StairB_100N_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby-StairB_100N_01_Right.JPG"
+        }
+    ]
+}

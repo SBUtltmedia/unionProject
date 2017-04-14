@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "CPO_221_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO_221_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO_221_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO_221_01_Right.JPG"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "spheres": [
+        {
+            "leftImg": "LectHall_123_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_07_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_07_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_05_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_08_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_08_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall_123_09_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall_123_09_Right.JPG"
+        }
+    ]
+}

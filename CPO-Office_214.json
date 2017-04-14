@@ -1,0 +1,82 @@
+{
+    "spheres": [
+        {
+            "leftImg": "CPO-Office_214_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO-Office_214_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO-Office_214_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO-Office_214_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO-Office_214_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "CPO-Office_214_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "CPO-Office_214_05_Right.JPG"
+        }
+    ]
+}

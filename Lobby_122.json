@@ -1,0 +1,82 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Lobby_122_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby_122_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby_122_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby_122_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby_122_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Lobby_122_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Lobby_122_05_Right.JPG"
+        }
+    ]
+}

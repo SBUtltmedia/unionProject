@@ -1,0 +1,56 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Backstage-Store_113_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Backstage-Store_113_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Backstage-Store_113_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Backstage-Store_113_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Backstage-Store_113_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Backstage-Store_113_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Backstage-Store_113_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Backstage-Store_113_04_Right.JPG"
+        }
+    ]
+}

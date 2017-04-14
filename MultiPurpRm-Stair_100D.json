@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "MultiPurpRm-Stair_100D_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "MultiPurpRm-Stair_100D_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "MultiPurpRm-Stair_100D_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "MultiPurpRm-Stair_100D_01_Right.JPG"
+        }
+    ]
+}

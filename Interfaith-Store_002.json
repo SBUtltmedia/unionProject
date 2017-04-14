@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Interfaith-Store_002_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith-Store_002_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Interfaith-Store_002_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith-Store_002_01_Right.JPG"
+        }
+    ]
+}

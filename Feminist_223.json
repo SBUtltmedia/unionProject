@@ -1,0 +1,69 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Feminist_223_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Feminist_223_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Feminist_223_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Feminist_223_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Feminist_223_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Feminist_223_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Feminist_223_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Feminist_223_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Feminist_223_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Feminist_223_05_Right.JPG"
+        }
+    ]
+}

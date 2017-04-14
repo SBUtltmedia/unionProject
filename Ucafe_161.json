@@ -1,0 +1,160 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Ucafe_161_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_07_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_07_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_05_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_08_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_08_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_09_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_09_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_12_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_12_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_11_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_11_Right.JPG"
+        }, 
+        {
+            "leftImg": "Ucafe_161_10_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Ucafe_161_10_Right.JPG"
+        }
+    ]
+}

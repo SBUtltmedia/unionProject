@@ -1,0 +1,69 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Interfaith_279_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith_279_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Interfaith_279_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith_279_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Interfaith_279_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith_279_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Interfaith_279_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith_279_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Interfaith_279_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Interfaith_279_05_Right.JPG"
+        }
+    ]
+}

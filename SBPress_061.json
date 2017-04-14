@@ -1,0 +1,69 @@
+{
+    "spheres": [
+        {
+            "leftImg": "SBPress_061_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SBPress_061_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "SBPress_061_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SBPress_061_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "SBPress_061_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SBPress_061_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "SBPress_061_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SBPress_061_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "SBPress_061_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SBPress_061_05_Right.JPG"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Elev1-Vest_100N_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Elev1-Vest_100N_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Elev1-Vest_100N_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Elev1-Vest_100N_01_Right.JPG"
+        }
+    ]
+}

@@ -7,7 +7,7 @@ rooms={}
 b="""<?xml version="1.0" encoding="UTF-8"?>  
 <svg xmlns="http://www.w3.org/2000/svg"  width="3000" height="3000">
 """
-for (dirpath, dirnames, filenames) in os.walk("temo"):
+for (dirpath, dirnames, filenames) in os.walk("img"):
     for JPG in filenames:
     
     	items = JPG.split(".")[0].split("_")[:-1]

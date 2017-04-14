@@ -1,0 +1,43 @@
+{
+    "spheres": [
+        {
+            "leftImg": "LectHall-Stage_124_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall-Stage_124_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall-Stage_124_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall-Stage_124_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "LectHall-Stage_124_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "LectHall-Stage_124_01_Right.JPG"
+        }
+    ]
+}

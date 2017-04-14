@@ -1,0 +1,108 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Wolfies_213_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_07_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_07_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_05_Right.JPG"
+        }, 
+        {
+            "leftImg": "Wolfies_213_08_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Wolfies_213_08_Right.JPG"
+        }
+    ]
+}

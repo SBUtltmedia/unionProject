@@ -1,0 +1,95 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Starbucks_212_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_07_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_07_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Starbucks_212_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Starbucks_212_05_Right.JPG"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "MeetingRm_247_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "MeetingRm_247_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "MeetingRm_247_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "MeetingRm_247_01_Right.JPG"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "spheres": [
+        {
+            "leftImg": "Courtyard_100X_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "Courtyard_100X_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "Courtyard_100X_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_01_Right.JPG"
+        }, 
+        {
+            "leftImg": "Courtyard_100X_06_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_06_Right.JPG"
+        }, 
+        {
+            "leftImg": "Courtyard_100X_04_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_04_Right.JPG"
+        }, 
+        {
+            "leftImg": "Courtyard_100X_05_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "Courtyard_100X_05_Right.JPG"
+        }
+    ]
+}

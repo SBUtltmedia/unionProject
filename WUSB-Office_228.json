@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "leftImg": "WUSB-Office_228_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "WUSB-Office_228_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "WUSB-Office_228_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "WUSB-Office_228_01_Right.JPG"
+        }
+    ]
+}

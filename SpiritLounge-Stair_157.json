@@ -1,0 +1,43 @@
+{
+    "spheres": [
+        {
+            "leftImg": "SpiritLounge-Stair_157_02_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge-Stair_157_02_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge-Stair_157_03_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge-Stair_157_03_Right.JPG"
+        }, 
+        {
+            "leftImg": "SpiritLounge-Stair_157_01_Left.JPG", 
+            "markers": [
+                {
+                    "number": "0", 
+                    "room": "Lobby_100", 
+                    "x": "0", 
+                    "y": "0", 
+                    "z": "0"
+                }
+            ], 
+            "rightImg": "SpiritLounge-Stair_157_01_Right.JPG"
+        }
+    ]
+}
