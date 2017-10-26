@@ -19,11 +19,7 @@ function loadSphere(room, num) {
       //console.log(data.spheres[num].leftImg);
       $("#sky1").attr("src", "img/" + data.spheres[num].leftImg);
       $("#sky2").attr("src", "img/" + data.spheres[num].rightImg);
-      //console.log(data.spheres[num].markers.length);
-      //console.log(data.spheres[num].markers[0]);
-      //console.log(data.spheres[num].markers[i]);
       //var x = data.spheres[num].markers[i].x;
-      //console.log(x);
 
     data.spheres.forEach(function(val,index,array){
     (new Image()).src ="img/"+val.leftImg;
@@ -58,26 +54,29 @@ function loadSphere(room, num) {
 
       function makeMarker(mkr,id)
       {
-        var spin=Math.atan2(mkr.x,mkr.z) * (180 / Math.PI)+180;
-        var marker= document.createElement('a-image');
-        marker.setAttribute('position', {
-          x: mkr.x,
-          y: mkr.y,
-          z: mkr.z
-        });
-        marker.setAttribute('rotation', {
-          x: -90,
-          y:spin
-        });
-        marker.setAttribute('src',  "nextMarker.png")
-        //marker.setAttribute('transparent',  "true")
-        marker.setAttribute("cursor-listener")
-        marker.setAttribute("id","marker"+id)
-        marker.setAttribute('data-num',mkr.number);
-        marker.setAttribute('data-room',mkr.room||"");
-        marker.setAttribute("class","marker")
-        $("a-scene").prepend(marker)
+				//If type is WALK, propagate with floor marker
+        if (mkr.type == "walk") {
+					var spin=Math.atan2(mkr.x,mkr.z) * (180 / Math.PI)+180;
+	        var marker= document.createElement('a-image');
+	        marker.setAttribute('position', {
+	          x: mkr.x,
+	          y: mkr.y,
+	          z: mkr.z
+	        });
+	        marker.setAttribute('rotation', {
+	          x: -90,
+	          y:spin
+	        });
+	        marker.setAttribute('src',  "nextMarker.png")
+	        //marker.setAttribute('transparent',  "true")
+	        marker.setAttribute("cursor-listener")
+	        marker.setAttribute("id","marker"+id)
+	        marker.setAttribute('data-num',mkr.number);
+	        marker.setAttribute('data-room',mkr.room||"");
+	        marker.setAttribute("class","marker")
+	        $("a-scene").prepend(marker)
       }
+		}
 
   }).fail(function(event, jqxhr, exception) {
       console.log("JSON File does not exist");

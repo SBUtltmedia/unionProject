@@ -6,6 +6,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -19,6 +20,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -32,6 +34,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -45,6 +48,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -58,6 +62,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -71,6 +76,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -84,6 +90,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -97,6 +104,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -110,6 +118,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
@@ -123,6 +132,7 @@
                 {
                     "number": "0", 
                     "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
                     "y": "0", 
                     "z": "0"
