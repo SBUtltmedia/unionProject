@@ -1,4 +1,4 @@
-var startingRoom = "StoreRm_125"
+var startingRoom = "Lobby_100"
 
 $(function() {
     loadSphere(startingRoom, 0);
@@ -23,11 +23,11 @@ function loadSphere(room, num) {
 
     data.spheres.forEach(function(val,index,array){
     (new Image()).src ="img/"+val.leftImg;
-    (new Image()).src ="img/"+val.rightImg
+    (new Image()).src ="img/"+val.rightImg;
     });
 
     data.spheres[num].markers.forEach(function(val,index,array){
-    //console.log(val.room)
+    console.log(val.room)
     if(val.room){
         (new Image()).src ="img/"+val.room+"_"+leftPad(val.number+1)+"_Left.JPG";
         (new Image()).src ="img/"+val.room+"_"+leftPad(val.number+1)+"_Right.JPG"
