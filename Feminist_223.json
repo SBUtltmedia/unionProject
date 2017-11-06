@@ -1,74 +1,74 @@
 {
     "spheres": [
         {
-            "leftImg": "Feminist_223_02_Left.JPG", 
+            "rightImg": "Feminist_223_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Feminist_223_02_Right.JPG"
+            "leftImg": "Feminist_223_02_Left.JPG"
         }, 
         {
-            "leftImg": "Feminist_223_03_Left.JPG", 
+            "rightImg": "Feminist_223_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Feminist_223_03_Right.JPG"
+            "leftImg": "Feminist_223_03_Left.JPG"
         }, 
         {
-            "leftImg": "Feminist_223_01_Left.JPG", 
+            "rightImg": "Feminist_223_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Feminist_223_01_Right.JPG"
+            "leftImg": "Feminist_223_01_Left.JPG"
         }, 
         {
-            "leftImg": "Feminist_223_04_Left.JPG", 
+            "rightImg": "Feminist_223_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Feminist_223_04_Right.JPG"
+            "leftImg": "Feminist_223_04_Left.JPG"
         }, 
         {
-            "leftImg": "Feminist_223_05_Left.JPG", 
+            "rightImg": "Feminist_223_05_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Feminist_223_05_Right.JPG"
+            "leftImg": "Feminist_223_05_Left.JPG"
         }
     ]
 }

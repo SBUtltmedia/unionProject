@@ -1,102 +1,102 @@
 {
     "spheres": [
         {
-            "leftImg": "UnionCommons-Kitchen_111_02_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_02_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_02_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_03_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_03_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_03_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_01_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_01_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_01_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_06_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_06_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_06_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_06_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_07_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_07_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_07_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_07_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_04_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_04_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_04_Left.JPG"
         }, 
         {
-            "leftImg": "UnionCommons-Kitchen_111_05_Left.JPG", 
+            "rightImg": "UnionCommons-Kitchen_111_05_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "UnionCommons-Kitchen_111_05_Right.JPG"
+            "leftImg": "UnionCommons-Kitchen_111_05_Left.JPG"
         }
     ]
 }

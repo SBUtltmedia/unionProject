@@ -1,88 +1,88 @@
 {
     "spheres": [
         {
-            "leftImg": "Courtyard_100X_02_Left.JPG", 
+            "rightImg": "Courtyard_100X_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_02_Right.JPG"
+            "leftImg": "Courtyard_100X_02_Left.JPG"
         }, 
         {
-            "leftImg": "Courtyard_100X_03_Left.JPG", 
+            "rightImg": "Courtyard_100X_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_03_Right.JPG"
+            "leftImg": "Courtyard_100X_03_Left.JPG"
         }, 
         {
-            "leftImg": "Courtyard_100X_01_Left.JPG", 
+            "rightImg": "Courtyard_100X_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_01_Right.JPG"
+            "leftImg": "Courtyard_100X_01_Left.JPG"
         }, 
         {
-            "leftImg": "Courtyard_100X_06_Left.JPG", 
+            "rightImg": "Courtyard_100X_06_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_06_Right.JPG"
+            "leftImg": "Courtyard_100X_06_Left.JPG"
         }, 
         {
-            "leftImg": "Courtyard_100X_04_Left.JPG", 
+            "rightImg": "Courtyard_100X_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_04_Right.JPG"
+            "leftImg": "Courtyard_100X_04_Left.JPG"
         }, 
         {
-            "leftImg": "Courtyard_100X_05_Left.JPG", 
+            "rightImg": "Courtyard_100X_05_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Courtyard_100X_05_Right.JPG"
+            "leftImg": "Courtyard_100X_05_Left.JPG"
         }
     ]
 }

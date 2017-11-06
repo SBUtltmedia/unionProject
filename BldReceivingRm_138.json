@@ -1,32 +1,32 @@
 {
     "spheres": [
         {
-            "leftImg": "BldReceivingRm_138_02_Left.JPG", 
+            "rightImg": "BldReceivingRm_138_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "BldReceivingRm_138_02_Right.JPG"
+            "leftImg": "BldReceivingRm_138_02_Left.JPG"
         }, 
         {
-            "leftImg": "BldReceivingRm_138_01_Left.JPG", 
+            "rightImg": "BldReceivingRm_138_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "BldReceivingRm_138_01_Right.JPG"
+            "leftImg": "BldReceivingRm_138_01_Left.JPG"
         }
     ]
 }

@@ -1,18 +1,18 @@
 {
     "spheres": [
         {
-            "leftImg": "Bath-Men_027_01_Left.JPG", 
+            "rightImg": "Bath-Men_027_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Bath-Men_027_01_Right.JPG"
+            "leftImg": "Bath-Men_027_01_Left.JPG"
         }
     ]
 }

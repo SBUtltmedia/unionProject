@@ -1,32 +1,32 @@
 {
     "spheres": [
         {
-            "leftImg": "CompClass_080A_02_Left.JPG",
+            "rightImg": "CompClass_080A_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0",
-                    "room": "Lobby_100",
-                    "type": "walk",
-                    "x": "0",
-                    "y": "0",
-                    "z": "0"
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
                 }
-            ],
-            "rightImg": "CompClass_080A_02_Right.JPG"
-        },
+            ], 
+            "leftImg": "CompClass_080A_02_Left.JPG"
+        }, 
         {
-            "leftImg": "CompClass_080A_01_Left.JPG",
+            "rightImg": "CompClass_080A_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0",
-                    "room": "Lobby_100",
-                    "type": "walk",
-                    "x": "0",
-                    "y": "0",
-                    "z": "0"
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
                 }
-            ],
-            "rightImg": "CompClass_080A_01_Right.JPG"
+            ], 
+            "leftImg": "CompClass_080A_01_Left.JPG"
         }
     ]
 }

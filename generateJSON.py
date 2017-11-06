@@ -33,7 +33,7 @@ for key,val in enumerate(rooms):
 		marker={}
 		marker["x"]="0"
 		marker["y"]="0"
-		marker["z"]="0"
+		marker["radius"]="0"
 		marker["room"]="Lobby_100"
 		marker["number"]="0"
 		marker["type"]="walk"
@@ -41,7 +41,7 @@ for key,val in enumerate(rooms):
 		json["spheres"].append(sphere)
 
 	f = open(preStem+".json", 'w')
-	f.write(js.dumps(json,sort_keys=True, indent=4))
+	f.write(js.dumps(json, indent=4))
 
 #
 #

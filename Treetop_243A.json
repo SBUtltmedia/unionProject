@@ -1,60 +1,60 @@
 {
     "spheres": [
         {
-            "leftImg": "Treetop_243A_02_Left.JPG", 
+            "rightImg": "Treetop_243A_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Treetop_243A_02_Right.JPG"
+            "leftImg": "Treetop_243A_02_Left.JPG"
         }, 
         {
-            "leftImg": "Treetop_243A_03_Left.JPG", 
+            "rightImg": "Treetop_243A_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Treetop_243A_03_Right.JPG"
+            "leftImg": "Treetop_243A_03_Left.JPG"
         }, 
         {
-            "leftImg": "Treetop_243A_01_Left.JPG", 
+            "rightImg": "Treetop_243A_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Treetop_243A_01_Right.JPG"
+            "leftImg": "Treetop_243A_01_Left.JPG"
         }, 
         {
-            "leftImg": "Treetop_243A_04_Left.JPG", 
+            "rightImg": "Treetop_243A_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "Treetop_243A_04_Right.JPG"
+            "leftImg": "Treetop_243A_04_Left.JPG"
         }
     ]
 }

@@ -1,60 +1,60 @@
 {
     "spheres": [
         {
-            "leftImg": "IslamicPrayerRm_248_02_Left.JPG", 
+            "rightImg": "IslamicPrayerRm_248_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "IslamicPrayerRm_248_02_Right.JPG"
+            "leftImg": "IslamicPrayerRm_248_02_Left.JPG"
         }, 
         {
-            "leftImg": "IslamicPrayerRm_248_03_Left.JPG", 
+            "rightImg": "IslamicPrayerRm_248_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "IslamicPrayerRm_248_03_Right.JPG"
+            "leftImg": "IslamicPrayerRm_248_03_Left.JPG"
         }, 
         {
-            "leftImg": "IslamicPrayerRm_248_01_Left.JPG", 
+            "rightImg": "IslamicPrayerRm_248_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "IslamicPrayerRm_248_01_Right.JPG"
+            "leftImg": "IslamicPrayerRm_248_01_Left.JPG"
         }, 
         {
-            "leftImg": "IslamicPrayerRm_248_04_Left.JPG", 
+            "rightImg": "IslamicPrayerRm_248_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "IslamicPrayerRm_248_04_Right.JPG"
+            "leftImg": "IslamicPrayerRm_248_04_Left.JPG"
         }
     ]
 }

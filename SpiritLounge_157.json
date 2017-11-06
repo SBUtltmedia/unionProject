@@ -1,74 +1,74 @@
 {
     "spheres": [
         {
-            "leftImg": "SpiritLounge_157_02_Left.JPG", 
+            "rightImg": "SpiritLounge_157_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SpiritLounge_157_02_Right.JPG"
+            "leftImg": "SpiritLounge_157_02_Left.JPG"
         }, 
         {
-            "leftImg": "SpiritLounge_157_03_Left.JPG", 
+            "rightImg": "SpiritLounge_157_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SpiritLounge_157_03_Right.JPG"
+            "leftImg": "SpiritLounge_157_03_Left.JPG"
         }, 
         {
-            "leftImg": "SpiritLounge_157_01_Left.JPG", 
+            "rightImg": "SpiritLounge_157_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SpiritLounge_157_01_Right.JPG"
+            "leftImg": "SpiritLounge_157_01_Left.JPG"
         }, 
         {
-            "leftImg": "SpiritLounge_157_04_Left.JPG", 
+            "rightImg": "SpiritLounge_157_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SpiritLounge_157_04_Right.JPG"
+            "leftImg": "SpiritLounge_157_04_Left.JPG"
         }, 
         {
-            "leftImg": "SpiritLounge_157_05_Left.JPG", 
+            "rightImg": "SpiritLounge_157_05_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SpiritLounge_157_05_Right.JPG"
+            "leftImg": "SpiritLounge_157_05_Left.JPG"
         }
     ]
 }

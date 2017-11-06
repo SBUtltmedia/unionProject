@@ -1,18 +1,16 @@
 {
     "spheres": [
         {
-            "leftImg": "vestibule_100A_01_Left.JPG", 
+            "rightImg": "vestibule_100A_01_Right.JPG",
             "markers": [
                 {
-                    "number": "0", 
-                    "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
-                    "y": "0", 
-                    "z": "0"
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "x":-33.00236899953542,"y":288.8853203049606,"radius":-11, 
+                    "type": "walk"
                 }
-            ], 
-            "rightImg": "vestibule_100A_01_Right.JPG"
+            ],
+            "leftImg": "vestibule_100A_01_Left.JPG"
         }
     ]
 }

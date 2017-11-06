@@ -1,60 +1,60 @@
 {
     "spheres": [
         {
-            "leftImg": "StoreBand_118_02_Left.JPG", 
+            "rightImg": "StoreBand_118_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "StoreBand_118_02_Right.JPG"
+            "leftImg": "StoreBand_118_02_Left.JPG"
         }, 
         {
-            "leftImg": "StoreBand_118_03_Left.JPG", 
+            "rightImg": "StoreBand_118_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "StoreBand_118_03_Right.JPG"
+            "leftImg": "StoreBand_118_03_Left.JPG"
         }, 
         {
-            "leftImg": "StoreBand_118_01_Left.JPG", 
+            "rightImg": "StoreBand_118_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "StoreBand_118_01_Right.JPG"
+            "leftImg": "StoreBand_118_01_Left.JPG"
         }, 
         {
-            "leftImg": "StoreBand_118_04_Left.JPG", 
+            "rightImg": "StoreBand_118_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "StoreBand_118_04_Right.JPG"
+            "leftImg": "StoreBand_118_04_Left.JPG"
         }
     ]
 }

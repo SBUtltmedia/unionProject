@@ -1,144 +1,144 @@
 {
     "spheres": [
         {
-            "leftImg": "SincSite_080_02_Left.JPG", 
+            "rightImg": "SincSite_080_02_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_02_Right.JPG"
+            "leftImg": "SincSite_080_02_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_03_Left.JPG", 
+            "rightImg": "SincSite_080_03_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_03_Right.JPG"
+            "leftImg": "SincSite_080_03_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_01_Left.JPG", 
+            "rightImg": "SincSite_080_01_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_01_Right.JPG"
+            "leftImg": "SincSite_080_01_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_06_Left.JPG", 
+            "rightImg": "SincSite_080_06_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_06_Right.JPG"
+            "leftImg": "SincSite_080_06_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_07_Left.JPG", 
+            "rightImg": "SincSite_080_07_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_07_Right.JPG"
+            "leftImg": "SincSite_080_07_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_04_Left.JPG", 
+            "rightImg": "SincSite_080_04_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_04_Right.JPG"
+            "leftImg": "SincSite_080_04_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_05_Left.JPG", 
+            "rightImg": "SincSite_080_05_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_05_Right.JPG"
+            "leftImg": "SincSite_080_05_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_08_Left.JPG", 
+            "rightImg": "SincSite_080_08_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_08_Right.JPG"
+            "leftImg": "SincSite_080_08_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_09_Left.JPG", 
+            "rightImg": "SincSite_080_09_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_09_Right.JPG"
+            "leftImg": "SincSite_080_09_Left.JPG"
         }, 
         {
-            "leftImg": "SincSite_080_10_Left.JPG", 
+            "rightImg": "SincSite_080_10_Right.JPG", 
             "markers": [
                 {
-                    "number": "0", 
                     "room": "Lobby_100", 
-                    "type": "walk", 
-                    "x": "0", 
+                    "number": "0", 
+                    "radius": "0", 
                     "y": "0", 
-                    "z": "0"
+                    "x": "0", 
+                    "type": "walk"
                 }
             ], 
-            "rightImg": "SincSite_080_10_Right.JPG"
+            "leftImg": "SincSite_080_10_Left.JPG"
         }
     ]
 }

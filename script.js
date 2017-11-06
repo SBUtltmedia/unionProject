@@ -5,10 +5,17 @@ var currentLocation;
 
 $(function() {
   $("html").on("click", function() {
+
+
     var o = {}
     o.x = sceneEl.querySelector('#camera').getAttribute('rotation').x;
     o.y = sceneEl.querySelector('#camera').getAttribute('rotation').y;
     o.radius = -11;
+    o.room= "";
+    o.number= "";
+    o.type=""
+ console.log(JSON.stringify(o))
+
   })
   sceneEl = document.querySelector('a-scene');
   cameraCache = $('#camera');
@@ -22,7 +29,7 @@ AFRAME.registerComponent('cursor-listener', {
       var marker = evt.target.id
       if (markers[marker].type == "walk") {
         var startingAngle = markers[marker].startingAngle;
-        loadSphere((markers[marker].room) != undefined ? (markers[marker].room) : currentLocation.room , markers[marker].number, startingAngle);
+        loadSphere((markers[marker].room) != undefined ? (markers[marker].room) : currentLocation.room , markers[marker].number, startingAngle, "");
         console.log(startingAngle);
 
       }
@@ -35,7 +42,7 @@ function leftPad(num) {
   return ("0" + num).slice(-2)
 }
 
-function loadSphere(room, sphereNum, angle,startingImage) {
+function loadSphere(room, sphereNum, angle, startingImage) {
   //Start polar coordinate helper in log, returns data formatted in x, y and radius
   var cameraRotY = 0
   var cameraEl = document.querySelector('#camera');
@@ -61,6 +68,7 @@ function loadSphere(room, sphereNum, angle,startingImage) {
 
   $.getJSON(room + ".json", function(data) {
     currentLocation = data.spheres[sphereNum];
+    currentLocation.sphereNum=parseInt(sphereNum);
      currentLocation.room = room;
      markers=currentLocation.markers;
       $('.marker').remove();
@@ -102,9 +110,9 @@ function loadSphere(room, sphereNum, angle,startingImage) {
         marker.setAttribute('opacity', ".7");
         marker.setAttribute('position', {
           //IMPLEMENT POLAR ROTATION, x: 0, y: 0, z: mkr.radius
-          x: mkr.x,
-  	      y: mkr.y,
-  	      z: mkr.z
+          x: 0,
+  	      y: 0,
+  	      z: mkr.radius
         });
         marker.setAttribute("cursor-listener", "")
         marker.setAttribute("id",  id)
