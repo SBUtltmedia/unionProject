@@ -103,13 +103,11 @@ function loadSphere(room, sphereNum, angle, startingImage) {
         }
         var markerHolder = document.createElement('a-entity');
         markerHolder.setAttribute("id", "markerHolder" + id)
-        //  var spin = Math.atan2(mkr.x, mkr.z) * (180 / Math.PI) + 180;
-        var marker = document.createElement('a-sphere');
-        marker.setAttribute('color', "#be68e8");
-        marker.setAttribute('radius', ".2");
-        marker.setAttribute('opacity', ".7");
+        var marker= document.createElement('a-image');
+        marker.setAttribute('src',  "nextMarker.png");
+        marker.setAttribute('scale', '1.8 1.8 1.8');
         marker.setAttribute('position', {
-          //IMPLEMENT POLAR ROTATION, x: 0, y: 0, z: mkr.radius
+          //IMPLEMENTED POLAR ROTATION
           x: 0,
   	      y: 0,
   	      z: mkr.radius

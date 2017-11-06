@@ -1,17 +1,21 @@
 {
-  "spheres": [
-    {
-      "leftImg": "Corr_199B_01_Left.JPG",
-      "rightImg": "Corr_199B_01_Right.JPG",
-      "markers": [{
-              "x" : "-2.89",
-              "y" : "-0.29",
-              "z" : "-3.08",
-              "room" : "Lobby_100",
-              "number" : "0",
-							"type" : "walk"
-          }
-      ]
-    }
-]
+  "spheres": [{
+    "leftImg": "Corr_199B_01_Left.JPG",
+    "rightImg": "Corr_199B_01_Right.JPG",
+    "markers": [{
+        "x": -21.772396214971263,
+        "y": 1123.111870015437,
+        "radius": -11,
+        "room": "Lobby_100",
+        "number": "0",
+        "type": "walk"
+      },
+      {
+        "x":-19.36597347542183,"y":-128.68632078638262,"radius":-11,
+        "room": "UnionStationDeli_149",
+        "number": "0",
+        "type": "walk"
+      }
+    ]
+  }]
 }
