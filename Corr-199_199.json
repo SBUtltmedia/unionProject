@@ -1,0 +1,144 @@
+{
+    "spheres": [
+        {
+            "rightImg": "Corr-199_199_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_03_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_03_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_01_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_06_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_06_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_07_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_07_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_04_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_04_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_05_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_05_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_08_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_08_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_09_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_09_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-199_199_10_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-199_199_10_Left.JPG"
+        }
+    ]
+}

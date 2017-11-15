@@ -1,0 +1,214 @@
+{
+    "spheres": [
+        {
+            "rightImg": "NorthSide-Walkway_100X_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_03_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_03_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_13_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_13_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_01_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_06_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_06_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_07_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_07_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_04_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_04_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_05_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_05_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_08_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_08_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_09_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_09_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_12_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_12_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_14_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_14_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_11_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_11_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_15_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_15_Left.JPG"
+        }, 
+        {
+            "rightImg": "NorthSide-Walkway_100X_10_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "NorthSide-Walkway_100X_10_Left.JPG"
+        }
+    ]
+}

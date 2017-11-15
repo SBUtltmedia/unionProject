@@ -1,0 +1,130 @@
+{
+    "spheres": [
+        {
+            "rightImg": "Corr-210_210_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_03_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_03_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_01_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_06_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_06_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_07_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_07_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_04_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_04_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_05_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_05_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_08_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_08_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-210_210_09_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-210_210_09_Left.JPG"
+        }
+    ]
+}

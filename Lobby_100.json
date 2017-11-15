@@ -5,7 +5,7 @@
       "rightImg": "Lobby_100_01_Right.JPG",
       "markers": [{
               "x":-24.980959867703906,"y":-137.85364550847575,"radius":-11,
-              "room" : "Corr_199b",
+              "room" : "Corr-199B_199B",
               "number" : "0",
 							"type" : "walk"
           },

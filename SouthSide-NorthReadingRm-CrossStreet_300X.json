@@ -1,7 +1,7 @@
 {
     "spheres": [
         {
-            "rightImg": "vestibule_100A_01_Right.JPG", 
+            "rightImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Right.JPG", 
             "markers": [
                 {
                     "room": "Lobby_100", 
@@ -12,7 +12,7 @@
                     "type": "walk"
                 }
             ], 
-            "leftImg": "vestibule_100A_01_Left.JPG"
+            "leftImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Left.JPG"
         }
     ]
 }

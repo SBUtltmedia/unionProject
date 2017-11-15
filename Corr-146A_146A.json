@@ -1,0 +1,32 @@
+{
+    "spheres": [
+        {
+            "rightImg": "Corr-146A_146A_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-146A_146A_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "Corr-146A_146A_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Corr-146A_146A_01_Left.JPG"
+        }
+    ]
+}

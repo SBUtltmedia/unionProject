@@ -1,0 +1,312 @@
+{
+    "spheres": [
+        {
+            "rightImg": "Rooftop_200X_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_03_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_03_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_01_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_06_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_06_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_07_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_07_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_04_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_04_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_05_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_05_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_08_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_08_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_09_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_09_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_14_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_14_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_20_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_20_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_21_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_21_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_11_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_11_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_10_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_10_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_13_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_13_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_12_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_12_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_15_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_15_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_22_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_22_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_17_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_17_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_16_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_16_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_19_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_19_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop_200X_18_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop_200X_18_Left.JPG"
+        }
+    ]
+}

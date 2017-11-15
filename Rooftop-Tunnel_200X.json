@@ -1,0 +1,88 @@
+{
+    "spheres": [
+        {
+            "rightImg": "Rooftop-Tunnel_200X_02_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_02_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop-Tunnel_200X_03_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_03_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop-Tunnel_200X_01_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_01_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop-Tunnel_200X_06_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_06_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop-Tunnel_200X_04_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_04_Left.JPG"
+        }, 
+        {
+            "rightImg": "Rooftop-Tunnel_200X_05_Right.JPG", 
+            "markers": [
+                {
+                    "room": "Lobby_100", 
+                    "number": "0", 
+                    "radius": "0", 
+                    "y": "0", 
+                    "x": "0", 
+                    "type": "walk"
+                }
+            ], 
+            "leftImg": "Rooftop-Tunnel_200X_05_Left.JPG"
+        }
+    ]
+}
