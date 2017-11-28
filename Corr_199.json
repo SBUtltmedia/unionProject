@@ -1,0 +1,57 @@
+{
+  "spheres": [
+    {
+      "leftImg": "Corr_199_01_Left.JPG",
+      "rightImg": "Corr_199_01_Right.JPG",
+      "markers": [{
+              "x":-24.980959867703906,"y":-137.85364550847575,"radius":-11,
+              "room" : "Corr_199b",
+              "number" : "0",
+							"type" : "walk"
+          },
+     {
+              "x":-41.138369690393134,"y":138.54119486263303,"radius":-11,
+              "room" : "vestibule_100A",
+              "number" : "0",
+							"type" : "walk"
+          },
+        {
+            "x":-19.709748152500325,"y":48.357637909041514,"radius":-11,
+            "room" : "Corr_199",
+            "number" : "0",
+						"type" : "walk"
+          },
+           {
+            "x":-14.896902673401362,"y":314.7830126448746,"radius":-11,
+            "number" : "1",
+						"type" : "walk"
+          }
+      ]
+    },
+    {
+      "leftImg": "Corr_199_02_Left.JPG",
+      "rightImg": "Corr_199_02_Right.JPG",
+        "markers": [{
+          "x":-27.501974166279524,"y":540.9867501625229,"radius":-11,
+          "number" : "0",
+					"type" : "walk"
+        },
+        {
+          "x":-16.38659294074154,"y":0.11459155902618418,"radius":-11,
+          "number" : "2",
+					"type" : "walk"
+        }
+    ]
+  },
+  {
+    "leftImg": "Lobby_100_03_Left.JPG",
+    "rightImg": "Lobby_100_03_Right.JPG",
+      "markers": [{
+        "x":-19.93893127055264,"y":182.42976196965395,"radius":-11,
+        "number" : "1",
+				"type" : "walk"
+      }
+  ]
+  }
+  ]
+}
