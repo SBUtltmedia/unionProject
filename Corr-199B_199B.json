@@ -8,13 +8,16 @@
         "radius": -11,
         "room": "Lobby_100",
         "number": "0",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle": 47.32631387780603
       },
       {
         "x":-19.36597347542183,"y":-128.68632078638262,"radius":-11,
         "room": "UnionStationDeli_149",
         "number": "0",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle": 357.4110726026069
+
       }
     ]
   }]

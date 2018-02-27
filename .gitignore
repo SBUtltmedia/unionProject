@@ -1,3 +1,4 @@
 img/*.JPG
 img/cropped
 img/portalsRemoved
+.DS_Store

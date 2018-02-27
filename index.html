@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Union Project</title>
-    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
     <!-- Waiting for update to support stereo images / A-frame Sky -->
     <script src="https://cdn.rawgit.com/oscarmarinmiro/aframe-stereo-component/master/dist/aframe-stereo-component.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -13,8 +13,8 @@
 
 <body>
     <a-scene antialias="true">
-<a-entity id="tripod">
-<a-entity id="camera" camera look-controls position="0 2 0" stereocam="eye:left;">
+<a-entity id="tripod" position="0 2 0" >
+<a-entity id="camera" camera look-controls stereocam="eye:left;">
     <a-entity cursor="fuse: true; fuseTimeout: 600"
                 position="0 0 -1"
                 geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"

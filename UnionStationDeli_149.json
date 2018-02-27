@@ -7,14 +7,16 @@
           "x": -28.991664433619672,
           "y": 171.08519762606372,
           "radius": -11,
-          "type": "walk"
+          "type": "walk",
+          "startingAngle": 44.5761164611787
         },
         {
           "x": -18.79301568029101,
           "y": 72.88023154064064,
           "radius": -11,
           "number": "2",
-          "type": "walk"
+          "type": "walk",
+          "startingAngle": 237.89207653831747
         },
         {
           "x": -16.04281826366305,
@@ -28,61 +30,44 @@
     },
     {
       "rightImg": "UnionStationDeli_149_03_Right.JPG",
-      "markers": [{
-        "room": "Lobby_100",
-        "number": "0",
-        "radius": "0",
-        "y": "0",
-        "x": "0",
-        "type": "walk"
-      }, {
+      "markers": [ {
         "x": -26.241467016991713,
         "y": -116.1958408525315,
         "radius": -11,
         "number": "2",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle": 8.021409131831888
       }],
       "leftImg": "UnionStationDeli_149_03_Left.JPG"
     },
     {
       "rightImg": "UnionStationDeli_149_04_Right.JPG",
       "markers": [{
-        "room": "Lobby_100",
-        "number": "0",
-        "radius": "0",
-        "y": "0",
-        "x": "0",
-        "type": "walk"
-      }, {
         "x": -23.262086482311435,
         "y": -175.78345154613643,
         "radius": -11,
         "number": "1",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle": 60.73352628386766
       }, {
         "x": -18.33464944418635,
         "y": -266.65455785388525,
         "radius": -11,
         "number": "0",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle":260.92497990257687
       }],
       "leftImg": "UnionStationDeli_149_04_Left.JPG"
     },
     {
       "rightImg": "UnionStationDeli_149_05_Right.JPG",
       "markers": [{
-        "room": "Lobby_100",
-        "number": "0",
-        "radius": "0",
-        "y": "0",
-        "x": "0",
-        "type": "walk"
-      }, {
         "x": -16.042818263663055,
         "y": -475.5549699585832,
         "radius": -11,
         "number": "0",
-        "type": "walk"
+        "type": "walk",
+        "startingAngle": 107.37229080751597
       }],
       "leftImg": "UnionStationDeli_149_05_Left.JPG"
     }
