@@ -1,31 +1,32 @@
 {
     "spheres": [
         {
-            "rightImg": "MultiPurpRm-Stair_100D_02_Right.JPG", 
+            "rightImg": "MultiPurpRm-Stair_100D_02_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
+                    "room": "Vest_100B",
+                    "number": "0",
+                    "radius": "-11",
+                    "y": "410.4669644317216",
+                    "x": "-22.001579333023617",
+                    "type": "walk",
+                    "startingAngle": 176.70018401834602
                 }
-            ], 
+            ],
             "leftImg": "MultiPurpRm-Stair_100D_02_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "MultiPurpRm-Stair_100D_01_Right.JPG", 
+            "rightImg": "MultiPurpRm-Stair_100D_01_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
+                    "number": "0",
+                    "radius": -11,
+                    "y": 229.0685264933032,
+                    "x": -16.042818263663047,
+                    "type": "walk",
+                    "startingAngle": 0
                 }
-            ], 
+            ],
             "leftImg": "MultiPurpRm-Stair_100D_01_Left.JPG"
         }
     ]

@@ -20,7 +20,7 @@
         {
             "x":-12.146705256773455,"y":49.73273661735548,"radius":-16,
             "room" : "Corr-199_199",
-            "number" : "2",
+            "number" : "0",
 						"type" : "walk",
             "startingAngle": 234.11055509045417
           },
@@ -29,6 +29,20 @@
             "number" : "1",
 						"type" : "walk",
             "startingAngle": 361.1925940504699
+          },
+          {
+            "x":1.718873385392484,"y":331.2841971446419,"radius":-19,
+            "room": "Lobby-Stair_100N",
+            "number": "1",
+            "type": "walk",
+            "startingAngle": 86.40203550572856
+          },
+          {
+            "x":0.9167324722093307,"y":345.95191669999093,"radius":-20,
+            "room": "Courtyard_100X",
+            "number": "5",
+            "type": "walk",
+            "startingAngle": 239.6109499237106
           }
       ]
     },
@@ -38,13 +52,28 @@
         "markers": [{
           "x":-27.501974166279524,"y":540.9867501625229,"radius":-11,
           "number" : "0",
-					"type" : "walk"
+					"type" : "walk",
+          "startingAngle": 137.28068771334534
         },
         {
           "x":-10.08405719430248,"y":0.8021409131833557,"radius":-14,
           "number" : "2",
 					"type" : "walk",
           "startingAngle": 0.6875493541569612
+        },
+        {
+          "x":-5.958761069360561,"y":392.81986434169136,"radius":-11,
+          "room": "Lobby-Stair_100N",
+          "number": "1",
+          "type": "walk",
+          "startingAngle": 86.40203550572856
+        },
+        {
+          "x":-5.500394833255898,"y":795.1508280825544,"radius":-15,
+          "room": "Courtyard_100X",
+          "number": "5",
+          "type": "walk",
+          "startingAngle": 239.6109499237106
         }
     ]
   },
@@ -57,11 +86,97 @@
 				"type" : "walk",
         "startingAngle":180.94007170231384
       },
-      {"x":-18.449241003212506,"y":361.1925940504699,"radius":-11,
-        "room":"Lobby_122",
-        "number":"0",
-        "type":"walk"}
+      {
+        "x":-18.449241003212506,"y":361.1925940504699,"radius":-11,
+        "number":"3",
+        "type":"walk",
+        "startingAngle": 39.460735235640094
+      },
+      {
+        "x":-6.760901982543701,"y":-126.50908116488449,"radius":-14,
+        "room": "Corr-BldReceivingRm_138",
+        "number" : "0",
+        "type" : "walk",
+        "startingAngle": 79.75572508221055
+      },
+      {
+        "x":-7.333859777674523,"y":-53.51425806521797,"radius":-14,
+        "room": "Elev1-Vest_100N",
+        "number" : "1",
+        "type" : "walk",
+        "startingAngle": 79.75572508221055
+      },
+      {
+        "x":-17.64710009002934,"y":58.78546978042252,"radius":-11,
+        "room": "Lobby-Stair_100N",
+        "number" : "0",
+        "type" : "walk",
+        "startingAngle": 265.8524169407017
+      },
+      {
+        "x":-2.7501974166279157,"y":23.835044277443558,"radius":-11,
+        "room": "Lobby-StairB_100N",
+        "number": "0",
+        "type": "walk",
+        "startingAngle": 101.64271285620816
+      }
   ]
-  }
+},
+{
+  "leftImg": "Lobby_100_04_Left.JPG",
+  "rightImg": "Lobby_100_04_Right.JPG",
+    "markers": [{
+      "x":-15.928226704636874,"y":219.71325758379677,"radius":-11,
+      "number" : "2",
+      "type" : "walk",
+      "startingAngle": 179.5649729939997
+    },
+    {
+      "x":-19.136790357369488,"y":399.5074136958487,"radius":-23,
+      "number" : "4",
+      "type" : "walk",
+      "startingAngle": 143.92699813686286
+    },
+    {
+      "x":-5.614986392282066,"y":179.60621192463987,"radius":-11,
+      "room": "Lobby-Stair_100N",
+      "number": "0",
+      "type": "walk",
+      "startingAngle": 265.8524169407017
+    },
+    {
+      "x":-4.6982539200727755,"y":92.74581018280634,"radius":-11,
+      "room": "Lobby-StairB_100N",
+      "number": "0",
+      "type": "walk",
+      "startingAngle": 101.64271285620816
+    },
+    {
+      "x":-2.750197416627975,"y":141.2180396508736,"radius":-11,
+      "room": "Corr-199_199",
+      "number": "3",
+      "type": "walk",
+      "startingAngle": 480.25322387865555
+    }
+]
+},
+{
+  "leftImg": "Lobby_100_05_Left.JPG",
+  "rightImg": "Lobby_100_05_Right.JPG",
+    "markers": [{
+      "x":-6.30253574643907,"y":-36.325524211293896,"radius":-11,
+      "number" : "3",
+      "type" : "walk",
+      "startingAngle": 219.4428355351057
+    },
+    {
+      "x":-6.531718864491381,"y":144.38536437296708,"radius":-14,
+      "room": "Vest_100B",
+      "number" : "0",
+      "type" : "walk",
+      "startingAngle": 79.75572508221055
+    }
+]
+}
   ]
 }

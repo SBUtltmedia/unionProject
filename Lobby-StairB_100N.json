@@ -1,46 +1,46 @@
 {
     "spheres": [
-        {
-            "rightImg": "Lobby-StairB_100N_02_Right.JPG", 
+
+      {
+          "rightImg": "Lobby-StairB_100N_01_Right.JPG",
+          "markers": [
+              {
+                  "x":-11.68833902066879,"y":-74.25533024895472,"radius":-11,
+                  "room": "Lobby_100",
+                  "number": "2",
+                  "type": "walk",
+                  "startingAngle": 221.96384983368034
+              }
+          ],
+          "leftImg": "Lobby-StairB_100N_01_Left.JPG"
+      },
+      {
+            "rightImg": "Lobby-StairB_100N_02_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-StairB_100N_02_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-StairB_100N_03_Right.JPG", 
+            "rightImg": "Lobby-StairB_100N_03_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-StairB_100N_03_Left.JPG"
-        }, 
-        {
-            "rightImg": "Lobby-StairB_100N_01_Right.JPG", 
-            "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
-            "leftImg": "Lobby-StairB_100N_01_Left.JPG"
         }
     ]
 }

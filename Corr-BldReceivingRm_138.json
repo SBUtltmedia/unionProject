@@ -1,17 +1,16 @@
 {
     "spheres": [
         {
-            "rightImg": "Corr-BldReceivingRm_138_01_Right.JPG", 
+            "rightImg": "Corr-BldReceivingRm_138_01_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
+                    "x":-8.823550045014663,"y":270.4360793017483,"radius":-11,
+                    "room": "Lobby_100",
+                    "number": "2",
+                    "type": "walk",
+                    "startingAngle": 84.68316212033604
                 }
-            ], 
+            ],
             "leftImg": "Corr-BldReceivingRm_138_01_Left.JPG"
         }
     ]

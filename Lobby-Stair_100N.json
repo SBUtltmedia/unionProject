@@ -1,157 +1,155 @@
 {
     "spheres": [
+     {
+         "rightImg": "Lobby-Stair_100N_01_Right.JPG",
+         "markers": [
+             {
+                 "x":-22.230762451075947,"y":411.72747158100907,"radius":-11,
+                 "room": "Lobby_100",
+                 "number": "2",
+                 "type": "walk",
+                 "startingAngle": 267.57129032609555
+             }
+         ],
+         "leftImg": "Lobby-Stair_100N_01_Left.JPG"
+     },
         {
-            "rightImg": "Lobby-Stair_100N_02_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_02_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
+                    "x":-7.792226013779165,"y":244.30920384378373,"radius":-11,
+                    "room": "Lobby_100",
+                    "number": "1",
+                    "type": "walk",
+                    "startingAngle": 547.0601027909092
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_02_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_03_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_03_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_03_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_01_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_06_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "Lobby-Stair_100N_01_Left.JPG"
-        }, 
-        {
-            "rightImg": "Lobby-Stair_100N_06_Right.JPG", 
-            "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_06_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_07_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_07_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_07_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_04_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_04_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_04_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_05_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_05_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_05_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_08_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_08_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_08_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_09_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_09_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_09_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_11_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_11_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_11_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Lobby-Stair_100N_10_Right.JPG", 
+            "rightImg": "Lobby-Stair_100N_10_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Lobby-Stair_100N_10_Left.JPG"
         }
     ]

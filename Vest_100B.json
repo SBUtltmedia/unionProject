@@ -1,0 +1,30 @@
+{
+  "spheres": [
+    {
+      "leftImg": "Vest_100B_01_Left.JPG",
+      "rightImg": "Vest_100B_01_Right.JPG",
+      "markers": [{
+              "x":-9.281916281119328,"y":-99.23629011665865,"radius":-16,
+              "room" : "Lobby_100",
+              "number" : "4",
+							"type" : "walk",
+              "startingAngle": 323.7211542489156
+          },
+     {
+              "x":-16.615776058793838,"y":-280.061770259946,"radius":-11,
+              "room" : "NorthSide-RearEnt_100X",
+              "number" : "0",
+							"type" : "walk",
+              "startingAngle": 237.20452718416104
+          },
+        {
+            "x":-6.990085100596031,"y":14.78231111437509,"radius":-11,
+            "room" : "MultiPurpRm-Stair_100D",
+            "number" : "0",
+						"type" : "walk",
+            "startingAngle": 234.11055509045417
+          }
+      ]
+    }
+  ]
+}

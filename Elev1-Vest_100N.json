@@ -1,32 +1,31 @@
 {
     "spheres": [
         {
-            "rightImg": "Elev1-Vest_100N_02_Right.JPG", 
+            "rightImg": "Elev1-Vest_100N_01_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "Elev1-Vest_100N_02_Left.JPG"
-        }, 
-        {
-            "rightImg": "Elev1-Vest_100N_01_Right.JPG", 
-            "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+            ],
             "leftImg": "Elev1-Vest_100N_01_Left.JPG"
+        },
+        {
+            "rightImg": "Elev1-Vest_100N_02_Right.JPG",
+            "markers": [
+                {
+                    "x":-7.7922260137791515,"y":262.07089549283853,"radius":-11,
+                    "room": "Lobby_100",
+                    "number": "2",
+                    "type": "walk",
+                    "startingAngle": 101.18434662010375
+                }
+            ],
+            "leftImg": "Elev1-Vest_100N_02_Left.JPG"
         }
     ]
 }

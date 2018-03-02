@@ -1,6 +1,20 @@
 {
     "spheres": [
-        {
+      {
+          "rightImg": "Corr-199_199_01_Right.JPG",
+          "markers": [
+              {
+                  "room": "Lobby_100",
+                  "number": "0",
+                  "x":-39.648679423053,
+                  "y":50.76406064859093,
+                  "radius":-11,
+                  "type": "walk"
+              }
+          ],
+          "leftImg": "Corr-199_199_01_Left.JPG"
+      },
+      {
             "rightImg": "Corr-199_199_02_Right.JPG",
             "markers": [
                 {
@@ -29,18 +43,31 @@
             "leftImg": "Corr-199_199_03_Left.JPG"
         },
         {
-            "rightImg": "Corr-199_199_01_Right.JPG",
+            "rightImg": "Corr-199_199_04_Right.JPG",
+            "markers": [
+                {
+                    "x":0.4583662361046542,"y":-57.06659639502988,"radius":-11,
+                    "room": "Lobby_100",
+                    "number": "3",
+                    "type": "walk",
+                    "startingAngle": 313.98087173169165
+                }
+            ],
+            "leftImg": "Corr-199_199_04_Left.JPG"
+        },
+        {
+            "rightImg": "Corr-199_199_05_Right.JPG",
             "markers": [
                 {
                     "room": "Lobby_100",
                     "number": "0",
-                    "x":-39.648679423053,
-                    "y":50.76406064859093,
-                    "radius":-11,
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
             ],
-            "leftImg": "Corr-199_199_01_Left.JPG"
+            "leftImg": "Corr-199_199_05_Left.JPG"
         },
         {
             "rightImg": "Corr-199_199_06_Right.JPG",
@@ -69,34 +96,6 @@
                 }
             ],
             "leftImg": "Corr-199_199_07_Left.JPG"
-        },
-        {
-            "rightImg": "Corr-199_199_04_Right.JPG",
-            "markers": [
-                {
-                    "room": "Lobby_100",
-                    "number": "0",
-                    "radius": "0",
-                    "y": "0",
-                    "x": "0",
-                    "type": "walk"
-                }
-            ],
-            "leftImg": "Corr-199_199_04_Left.JPG"
-        },
-        {
-            "rightImg": "Corr-199_199_05_Right.JPG",
-            "markers": [
-                {
-                    "room": "Lobby_100",
-                    "number": "0",
-                    "radius": "0",
-                    "y": "0",
-                    "x": "0",
-                    "type": "walk"
-                }
-            ],
-            "leftImg": "Corr-199_199_05_Left.JPG"
         },
         {
             "rightImg": "Corr-199_199_08_Right.JPG",

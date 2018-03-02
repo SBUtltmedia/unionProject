@@ -1,88 +1,87 @@
 {
     "spheres": [
-        {
-            "rightImg": "Courtyard_100X_02_Right.JPG", 
+      {
+          "rightImg": "Courtyard_100X_01_Right.JPG",
+          "markers": [
+              {
+                  "room": "Lobby_100",
+                  "number": "0",
+                  "radius": "0",
+                  "y": "0",
+                  "x": "0",
+                  "type": "walk"
+              }
+          ],
+          "leftImg": "Courtyard_100X_01_Left.JPG"
+      },
+      {
+            "rightImg": "Courtyard_100X_02_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Courtyard_100X_02_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Courtyard_100X_03_Right.JPG", 
+            "rightImg": "Courtyard_100X_03_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Courtyard_100X_03_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Courtyard_100X_01_Right.JPG", 
+            "rightImg": "Courtyard_100X_04_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "Courtyard_100X_01_Left.JPG"
-        }, 
-        {
-            "rightImg": "Courtyard_100X_06_Right.JPG", 
-            "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
-            "leftImg": "Courtyard_100X_06_Left.JPG"
-        }, 
-        {
-            "rightImg": "Courtyard_100X_04_Right.JPG", 
-            "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+            ],
             "leftImg": "Courtyard_100X_04_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "Courtyard_100X_05_Right.JPG", 
+            "rightImg": "Courtyard_100X_05_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "Courtyard_100X_05_Left.JPG"
+        },
+        {
+            "rightImg": "Courtyard_100X_06_Right.JPG",
+            "markers": [
+                {
+                    "x":-5.729577951308234,"y":59.58761069360578,"radius":-11,
+                    "room": "Lobby_100",
+                    "number": "1",
+                    "type": "walk",
+                    "startingAngle": 619.3673765364189
+                }
+            ],
+            "leftImg": "Courtyard_100X_06_Left.JPG"
         }
     ]
 }
