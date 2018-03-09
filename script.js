@@ -5,7 +5,7 @@ var currentLocation;
 
 $(function() {
   $("html").on("click", function() {
-
+    
 
     var o = {}
     o.x = sceneEl.querySelector('#camera').getAttribute('rotation').x;
@@ -99,18 +99,19 @@ function loadSphere(room, sphereNum, angle, startingImage) {
 
 
     //var x = data.spheres[sphereNum].markers[i].x;
-
-    data.spheres.forEach(function(val, index, array) {
-      (new Image()).src = "img/" + val.leftImg;
-      (new Image()).src = "img/" + val.rightImg;
-    });
+    //Preloader 1
+    // data.spheres.forEach(function(val, index, array) {
+    //   (new Image()).src = "img/" + val.leftImg;
+    //   (new Image()).src = "img/" + val.rightImg;
+    // });
 
     data.spheres[sphereNum].markers.forEach(function(val, index, array) {
       //console.log(val.room)
-      if (val.room) {
-        (new Image()).src = "img/" + val.room + "_" + leftPad(val.number + 1) + "_Left.JPG";
-        (new Image()).src = "img/" + val.room + "_" + leftPad(val.number + 1) + "_Right.JPG";
-      }
+      //Preloader 2
+      // if (val.room) {
+      //   (new Image()).src = "img/" + val.room + "_" + leftPad(val.number + 1) + "_Left.JPG";
+      //   (new Image()).src = "img/" + val.room + "_" + leftPad(val.number + 1) + "_Right.JPG";
+      // }
       val.id = index;
       makeMarker(val, index);
     })
