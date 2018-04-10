@@ -1,0 +1,147 @@
+{
+    "spheres": [
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_02_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_03_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_01_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_06_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_07_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_04_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_05_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_08_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_09_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_11_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "WestSide-Patio_100X_10_Mono.JPG"
+        }
+    ]
+}

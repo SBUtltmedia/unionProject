@@ -1,60 +1,60 @@
 {
     "spheres": [
         {
-            "rightImg": "SpiritToBasement-Stair_100N_02_Right.JPG", 
+            "rightImg": "SpiritToBasement-Stair_100N_02_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "SpiritToBasement-Stair_100N_02_Left.JPG"
-        }, 
+            ],
+            "leftImg": "SpiritToBasement-Stair_100N_02_Mono.JPG"
+        },
         {
-            "rightImg": "SpiritToBasement-Stair_100N_03_Right.JPG", 
+            "rightImg": "SpiritToBasement-Stair_100N_03_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "SpiritToBasement-Stair_100N_03_Left.JPG"
-        }, 
+            ],
+            "leftImg": "SpiritToBasement-Stair_100N_03_Mono.JPG"
+        },
         {
-            "rightImg": "SpiritToBasement-Stair_100N_01_Right.JPG", 
+            "rightImg": "SpiritToBasement-Stair_100N_01_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "SpiritToBasement-Stair_100N_01_Left.JPG"
-        }, 
+            ],
+            "leftImg": "SpiritToBasement-Stair_100N_01_Mono.JPG"
+        },
         {
-            "rightImg": "SpiritToBasement-Stair_100N_04_Right.JPG", 
+            "rightImg": "SpiritToBasement-Stair_100N_04_Mono.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "SpiritToBasement-Stair_100N_04_Left.JPG"
+            ],
+            "leftImg": "SpiritToBasement-Stair_100N_04_Mono.JPG"
         }
     ]
 }

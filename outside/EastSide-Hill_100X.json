@@ -1,0 +1,30 @@
+{
+    "spheres": [
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "EastSide-Hill_100X_02_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "EastSide-Hill_100X_01_Mono.JPG"
+        }
+    ]
+}

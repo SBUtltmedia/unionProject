@@ -1,47 +1,50 @@
 {
-  "spheres": [{
-      "rightImg": "NorthSide-RearEnt_100X_02_Mono.JPG",
-      "markers": [{
-        "room": "Vest_100B",
-        "number": "0",
-        "radius": -11,
-        "y": 54.08721586034993,
-        "x": -5.614986392282049,
-        "type": "walk",
-        "startingAngle": 260.58120522549837
-      }],
-      "leftImg": "NorthSide-RearEnt_100X_02_Mono.JPG"
-    },
-    {
-      "rightImg": "NorthSide-RearEnt_100X_03_Mono.JPG",
-      "markers": [{
-        "room": "Lobby_100",
-        "number": "0",
-        "radius": "0",
-        "y": "0",
-        "x": "0",
-        "type": "walk"
-      }],
-      "leftImg": "NorthSide-RearEnt_100X_03_Mono.JPG"
-    },
-    {
-      "rightImg": "NorthSide-RearEnt_100X_01_Mono.JPG",
-      "leftImg": "NorthSide-RearEnt_100X_01_Mono.JPG",
-      "markers": [{
-
-      }]
-    },
-    {
-      "rightImg": "NorthSide-RearEnt_100X_04_Mono.JPG",
-      "markers": [{
-        "room": "Lobby_100",
-        "number": "0",
-        "radius": "0",
-        "y": "0",
-        "x": "0",
-        "type": "walk"
-      }],
-      "leftImg": "NorthSide-RearEnt_100X_04_Mono.JPG"
-    }
-  ]
+    "spheres": [
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": -11, 
+                    "room": "Vest_100B", 
+                    "startingAngle": 260.58120522549837, 
+                    "type": "walk", 
+                    "x": -5.614986392282049, 
+                    "y": 54.08721586034993
+                }
+            ], 
+            "rightImg": "NorthSide-RearEnt_100X_02_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "NorthSide-RearEnt_100X_03_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {}
+            ], 
+            "rightImg": "NorthSide-RearEnt_100X_01_Mono.JPG"
+        }, 
+        {
+            "markers": [
+                {
+                    "number": "0", 
+                    "radius": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
+                    "x": "0", 
+                    "y": "0"
+                }
+            ], 
+            "rightImg": "NorthSide-RearEnt_100X_04_Mono.JPG"
+        }
+    ]
 }

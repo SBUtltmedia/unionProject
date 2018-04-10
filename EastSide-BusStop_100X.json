@@ -1,18 +1,17 @@
 {
     "spheres": [
         {
-            "rightImg": "EastSide-BusStop_100X_01_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "EastSide-BusStop_100X_01_Left.JPG"
+            "rightImg": "EastSide-BusStop_100X_01_Mono.JPG"
         }
     ]
 }

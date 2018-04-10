@@ -1,74 +1,69 @@
 {
     "spheres": [
         {
-            "rightImg": "NorthSide-Platform_100X_02_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "NorthSide-Platform_100X_02_Left.JPG"
+            "rightImg": "NorthSide-Platform_100X_02_Mono.JPG"
         }, 
         {
-            "rightImg": "NorthSide-Platform_100X_03_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "NorthSide-Platform_100X_03_Left.JPG"
+            "rightImg": "NorthSide-Platform_100X_03_Mono.JPG"
         }, 
         {
-            "rightImg": "NorthSide-Platform_100X_01_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "NorthSide-Platform_100X_01_Left.JPG"
+            "rightImg": "NorthSide-Platform_100X_01_Mono.JPG"
         }, 
         {
-            "rightImg": "NorthSide-Platform_100X_04_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "NorthSide-Platform_100X_04_Left.JPG"
+            "rightImg": "NorthSide-Platform_100X_04_Mono.JPG"
         }, 
         {
-            "rightImg": "NorthSide-Platform_100X_05_Right.JPG", 
             "markers": [
                 {
-                    "room": "Lobby_100", 
                     "number": "0", 
                     "radius": "0", 
-                    "y": "0", 
+                    "room": "Lobby_100", 
+                    "type": "walk", 
                     "x": "0", 
-                    "type": "walk"
+                    "y": "0"
                 }
             ], 
-            "leftImg": "NorthSide-Platform_100X_05_Left.JPG"
+            "rightImg": "NorthSide-Platform_100X_05_Mono.JPG"
         }
     ]
 }

@@ -1,143 +1,214 @@
 {
     "spheres": [
         {
-            "rightImg": "SincSite_080_02_Right.JPG", 
+            "rightImg": "SincSite_080_02_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+                    "number": "1",
+                    "radius": "-13",
+                    "x":-13.750987083139764,"y":120.55032009552508,
+                    "type": "walk",
+										"startingAngle": 39.99245410013168
+                },
+								{
+                    "number": "2",
+                    "radius": "-11",
+                    "x":-17.303325412950862,"y":302.5217158290741,
+                    "type": "walk",
+										"startingAngle": 115.7374746164258
+                },
+								{
+										"number": "7",
+										"radius": "-16",
+										"x":-7.333859777674534,"y":175.32508531003134,
+										"type": "walk",
+										"startingAngle": 593.698867314558
+								}
+            ],
             "leftImg": "SincSite_080_02_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_03_Right.JPG", 
+            "rightImg": "SincSite_080_03_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+                    "number": "0",
+                    "radius": "-11",
+                    "y": "205.348073774886",
+                    "x": "0",
+                    "type": "walk",
+										"startingAngle": 300.91743400270775
+                },
+								{
+                    "number": "4",
+                    "radius": "-19",
+                    "x":-12.719663051904288,"y":89.15223292235574,
+                    "type": "walk",
+										"startingAngle": 100.8405719430238
+                },
+								{
+										"number": "5",
+										"radius": "-14",
+										"x":-19.25138191639567,"y":56.37904704087313,
+										"type": "walk",
+										"startingAngle": 70.24462568303771
+								},
+								{
+										"number": "7",
+										"radius": "-14",
+										"x":-15.01149423242757,"y":129.37387014053974,
+										"type": "walk",
+										"startingAngle": 307.4491528671983
+								}
+            ],
             "leftImg": "SincSite_080_03_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_01_Right.JPG", 
+            "rightImg": "SincSite_080_01_Right.JPG",
             "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+							{
+									"number": "0",
+									"radius": "-11",
+									"x":-20.39729750665731,"y":297.70887034997514,
+									"type": "walk",
+									"startingAngle": 117.34175644279222
+							}
+            ],
             "leftImg": "SincSite_080_01_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_06_Right.JPG", 
+            "rightImg": "SincSite_080_06_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
+                    "number": "6",
+                    "radius": "-11",
+										"x":-21.428621537892795,"y":246.37185190625436,
+                    "type": "walk",
+										"startingAngle": 137.62446239042376
                 }
-            ], 
+            ],
             "leftImg": "SincSite_080_06_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_07_Right.JPG", 
+            "rightImg": "SincSite_080_07_Right.JPG",
             "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+							{
+									"number": "1",
+									"radius": "-16",
+									"x":-5.385803274229732,"y":-82.62051405786573,
+									"type": "walk",
+									"startingAngle": 279.94717870091915
+							},
+							{
+									"number": "7",
+									"radius": "-16",
+									"x":-7.906817572805348,"y":237.8920765383158,
+									"type": "walk",
+									"startingAngle": 415.16521835179356
+							},
+							{
+									"number": "6",
+									"radius": "-14",
+									"x":-15.46986046853223,"y":41.596735926497814,
+									"type": "walk",
+									"startingAngle": 262.5292617289431
+							}
+            ],
             "leftImg": "SincSite_080_07_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_04_Right.JPG", 
+            "rightImg": "SincSite_080_04_Right.JPG",
             "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+							{
+									"number": "1",
+									"radius": "-14",
+									"y": "283.7287001487821",
+									"x": "0",
+									"type": "walk",
+									"startingAngle": 39.99245410013168
+							},
+							{
+									"number": "7",
+									"radius": "-14",
+									"x":-7.563042895726856,"y":219.09906085802453,
+									"type": "walk",
+									"startingAngle": 7.677634454753388
+							}
+            ],
             "leftImg": "SincSite_080_04_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_05_Right.JPG", 
+            "rightImg": "SincSite_080_05_Right.JPG",
             "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+							{
+									"number": "4",
+									"radius": "-18",
+									"x":-12.032113697747292,"y":63.94208993660018,
+									"type": "walk",
+									"startingAngle": 241.4444148681293
+							},
+							{
+									"number": "3",
+									"radius": "-18",
+									"x":-23.14749492328528,"y":331.2841971446426,
+									"type": "walk",
+									"startingAngle": 73.79696401285054
+							}
+            ],
             "leftImg": "SincSite_080_05_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_08_Right.JPG", 
+            "rightImg": "SincSite_080_08_Right.JPG",
             "markers": [
-                {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
-                    "type": "walk"
-                }
-            ], 
+							{
+									"number": "1",
+									"radius": "-16",
+									"x":-9.62569095819783,"y":135.44722276892549,
+									"type": "walk",
+									"startingAngle": 279.94717870091915
+							},
+							{
+									"number": "4",
+									"radius": "-16",
+									"x":-7.563042895726864,"y":232.73545638213926,
+									"type": "walk",
+									"startingAngle": 412.3004293761388
+							},
+							{
+									"number": "5",
+									"radius": "-16",
+									"x":-10.198648753328653,"y":170.1684651538534,
+									"type": "walk",
+									"startingAngle": 342.743353047258
+							}
+            ],
             "leftImg": "SincSite_080_08_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_09_Right.JPG", 
+            "rightImg": "SincSite_080_09_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "SincSite_080_09_Left.JPG"
-        }, 
+        },
         {
-            "rightImg": "SincSite_080_10_Right.JPG", 
+            "rightImg": "SincSite_080_10_Right.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
+            ],
             "leftImg": "SincSite_080_10_Left.JPG"
         }
     ]

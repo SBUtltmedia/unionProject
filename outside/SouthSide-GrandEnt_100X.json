@@ -1,0 +1,73 @@
+{
+  "spheres": [{
+    "rightImg": "SouthSide-GrandEnt_100X_02_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_03_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_01_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_06_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_07_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_04_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }, {
+    "rightImg": "SouthSide-GrandEnt_100X_05_Mono.JPG",
+    "markers": [{
+      "room": "Lobby_100",
+      "number": "0",
+      "radius": "0",
+      "y": "0",
+      "x": "0",
+      "type": "walk"
+    }]
+  }]
+}

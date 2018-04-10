@@ -8,14 +8,16 @@
     <!-- Waiting for update to support stereo images / A-frame Sky -->
     <script src="https://cdn.rawgit.com/oscarmarinmiro/aframe-stereo-component/master/dist/aframe-stereo-component.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="getParameters.js"></script>
     <script src="script.js"></script>
+
 </head>
 
 <body>
-    <a-scene antialias="true">
+    <a-scene antialias="true" cursor="rayOrigin: mouse">
 <a-entity id="tripod" position="0 2 0" >
 <a-entity id="camera" camera look-controls stereocam="eye:left;">
-    <a-entity cursor="fuse: true; fuseTimeout: 600"
+    <a-entity id ="cursor" visible="false"
                 position="0 0 -1"
                 geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
                 material="color: red; shader: flat">

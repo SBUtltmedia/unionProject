@@ -1,4 +1,6 @@
 img/*.JPG
 img/cropped
 img/portalsRemoved
+img/Portals_Original/
+img/thumb/
 .DS_Store

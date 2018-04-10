@@ -6,16 +6,19 @@ var currentLocation;
 $(function() {
 	sceneEl = document.querySelector('a-scene');
   cursor = document.querySelector('#cursor');
-  cursor.setAttribute('visible', "true");
+	if (AFRAME.utils.device.isMobile()){
+		cursor.setAttribute('visible', "true");
+ 	  //cursor.setAttribute('cursor', "fuse: true; fuseTimeout: 600");
+	}
+  cursor.setAttribute('visible', "false");
   sceneEl.addEventListener('enter-vr', function () {
-   //cursor.setAttribute('visible', "true");
+   cursor.setAttribute('visible', "true");
+	 cursor.setAttribute('cursor', "fuse: true; fuseTimeout: 600");
   });
   sceneEl.addEventListener('exit-vr', function () {
-   //cursor.setAttribute('visible', "false");
+   cursor.removeAttribute('cursor');
+	 cursor.setAttribute('visible', "false");
   });
-	if (!AFRAME.utils.device.isMobile()){
-		$('#cursor').remove();
-	}
   cameraCache = $('#camera');
   loadLobby(startingRoom);
   var markers = document.getElementById('markers')
@@ -24,15 +27,15 @@ $(function() {
 AFRAME.registerComponent('cursor-listener', {
   init: function() {
     this.el.addEventListener('click', function(evt) {
+		  //this.el.removeEventListener("click");
+			console.log("click")
       var marker = evt.target.id
       $.getJSON(marker + ".json", function(data) {
-        var link = document.createElement('a-link');
+        var link = document.createElement('a-entity');
         var preview = new Image();
-        preview.onerror = function() {link.setAttribute('image', "img/" + data.spheres[0].rightImg.replace("Right", "Mono"));};
-        preview.src = "img/" + data.spheres[0].rightImg;
-        link.setAttribute('href', "index.html");
-        link.setAttribute('title', marker);
-        link.setAttribute('image', "img/" + data.spheres[0].rightImg);
+				preview.onerror = function() {link.setAttribute('image', "img/thumb/" + data.spheres[0].rightImg.replace("Right", "Mono"));};
+				preview.src = "img/thumb/" + data.spheres[0].rightImg;
+				link.setAttribute('link', {"href":"http://apps.tlt.stonybrook.edu/unionProject/index.html?room=" + marker,"title":marker, 'image': preview});
         link.setAttribute('id', marker + "_img");
         link.setAttribute('position', "0 0 1.8");
         document.querySelector('#'+ marker).appendChild(link);

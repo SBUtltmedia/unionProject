@@ -1,18 +1,18 @@
 {
     "spheres": [
         {
-            "rightImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Right.JPG", 
+            "rightImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Left.JPG"
+            ],
+            "leftImg": "SouthSide-NorthReadingRm-CrossStreet_300X_01_Mono.JPG"
         }
     ]
 }

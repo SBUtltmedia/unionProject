@@ -1,32 +1,32 @@
 {
     "spheres": [
         {
-            "rightImg": "Rooftop-Ramp_200X_02_Right.JPG", 
+            "rightImg": "Rooftop-Ramp_200X_02_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "Rooftop-Ramp_200X_02_Left.JPG"
-        }, 
+            ],
+            "leftImg": "Rooftop-Ramp_200X_02_Mono.JPG"
+        },
         {
-            "rightImg": "Rooftop-Ramp_200X_01_Right.JPG", 
+            "rightImg": "Rooftop-Ramp_200X_01_Mono.JPG",
             "markers": [
                 {
-                    "room": "Lobby_100", 
-                    "number": "0", 
-                    "radius": "0", 
-                    "y": "0", 
-                    "x": "0", 
+                    "room": "Lobby_100",
+                    "number": "0",
+                    "radius": "0",
+                    "y": "0",
+                    "x": "0",
                     "type": "walk"
                 }
-            ], 
-            "leftImg": "Rooftop-Ramp_200X_01_Left.JPG"
+            ],
+            "leftImg": "Rooftop-Ramp_200X_01_Mono.JPG"
         }
     ]
 }
